@@ -43,7 +43,6 @@ struct Sphere
 	float radius;
 };
 static const int kWindowWidth = 1280;
-const float pi = 3.14159265358979323846f;
 static const int kWindowHeight = 720;
 
 Vector3 Add(const Vector3& v1, const Vector3& v2) {
